@@ -1,0 +1,38 @@
+@import url("./LiveHost.css");
+
+/* LiveJoin can reuse most tokens & utilities from LiveHost.css via this import.
+   Add any LiveJoin-specific tweaks below. */
+
+.join-bar {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.answer-block {
+  margin-top: 8px;
+}
+
+.answer-option {
+  display: block;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px solid var(--green-200);
+  background: var(--bg);
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+.answer-option:hover {
+  border-color: var(--purple-500);
+  box-shadow: 0 0 0 3px rgba(126, 86, 217, 0.12);
+}
+
+.answer-option input {
+  margin-right: 8px;
+}
+
+.accepted-pill {
+  margin-left: 8px;
+}

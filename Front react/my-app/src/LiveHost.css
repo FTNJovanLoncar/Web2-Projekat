@@ -1,0 +1,168 @@
+:root {
+  --bg: #ffffff;
+  --green-50: #f3fbf3;      /* very light green */
+  --green-100: #e8f7e8;     /* light green box */
+  --green-200: #d6f0d6;     /* borders */
+  --purple-500: #7e56d9;    /* primary purple */
+  --purple-600: #6d45ca;    /* hover */
+  --purple-700: #5a38a8;    /* active */
+  --text-900: #1f2937;      /* slate-800-ish */
+  --text-600: #4b5563;      /* slate-600-ish */
+  --shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  --radius: 14px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  background: var(--bg);
+  color: var(--text-900);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* Page */
+.page {
+  padding: 16px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.heading {
+  margin: 0 0 12px 0;
+  color: var(--text-900);
+}
+
+/* Cards / Panels */
+.panel {
+  background: var(--green-100);
+  border: 1px solid var(--green-200);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 14px;
+}
+
+.panel + .panel { margin-top: 12px; }
+
+.panel__title {
+  margin: 0 0 10px 0;
+  color: var(--text-900);
+}
+
+/* Toolbar / Inputs / Buttons */
+.toolbar {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.input {
+  border: 1px solid var(--green-200);
+  background: var(--bg);
+  color: var(--text-900);
+  padding: 10px 12px;
+  border-radius: 10px;
+  outline: none;
+  min-width: 160px;
+}
+
+.input:focus {
+  border-color: var(--purple-500);
+  box-shadow: 0 0 0 3px rgba(126, 86, 217, 0.15);
+}
+
+.btn {
+  appearance: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-weight: 600;
+  transition: transform 120ms ease, box-shadow 120ms ease, background 120ms ease, color 120ms ease;
+  background: var(--purple-500);
+  color: white;
+  box-shadow: var(--shadow);
+}
+
+.btn:hover { background: var(--purple-600); }
+.btn:active { background: var(--purple-700); transform: translateY(1px); }
+.btn:disabled { opacity: 0.55; cursor: not-allowed; transform: none; }
+
+/* Outline variant for secondary actions */
+.btn--outline {
+  background: transparent;
+  color: var(--purple-600);
+  border: 1px solid var(--purple-500);
+}
+
+.btn--outline:hover {
+  background: rgba(126, 86, 217, 0.08);
+}
+
+/* Status bar */
+.statusbar {
+  margin-top: 10px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: var(--green-50);
+  border: 1px solid var(--green-200);
+  color: var(--text-600);
+}
+
+/* Columns */
+.columns {
+  display: flex;
+  gap: 24px;
+  margin-top: 14px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.col {
+  flex: 1 1 280px;
+}
+
+.list {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.list li {
+  margin-bottom: 6px;
+}
+
+.inline {
+  display: inline-block;
+  margin-left: 8px;
+}
+
+/* Badges / Pills */
+.pill {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: rgba(126, 86, 217, 0.12);
+  color: var(--purple-600);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .2px;
+}
+
+/* Typography helpers */
+.muted { color: var(--text-600); }
+.italic { font-style: italic; }
+
+/* Ordered list nicer spacing */
+ol.leaderboard {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.kick-btn {
+  margin-left: 8px;
+}
+
+/* Small spacing utilities */
+.mt-8 { margin-top: 8px; }
+.mt-12 { margin-top: 12px; }
+.gap-8 { gap: 8px; }

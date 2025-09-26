@@ -1,0 +1,59 @@
+.ranking-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.section-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.ranking-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+  max-width: 600px;
+}
+
+.ranking-card {
+  background: #c8f7c5; /* light green */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+}
+
+.ranking-card:hover {
+  transform: translateY(-5px);
+}
+
+.ranking-card h3 {
+  margin: 0 0 10px;
+  color: #2d2d2d;
+}
+
+.ranking-card p {
+  margin: 0 0 10px;
+  color: #444;
+}
+
+.purple-btn {
+  background-color: #b19cd9;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.purple-btn:hover {
+  background-color: #9370db;
+}

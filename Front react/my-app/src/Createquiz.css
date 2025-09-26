@@ -1,0 +1,78 @@
+.create-quiz-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  font-family: Arial, sans-serif;
+}
+
+.create-quiz-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.question-block {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+  background: #f9f9f9;
+}
+
+.question-block label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.question-block input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.option-input {
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.option-input input[type="checkbox"],
+.option-input input[type="radio"] {
+  margin-right: 8px;
+}
+
+.add-btn,
+.submit-btn {
+  display: inline-block;
+  padding: 10px 16px;
+  margin: 10px 5px;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.add-btn {
+  background: #007bff;
+  color: #fff;
+}
+
+.add-btn:hover {
+  background: #0056b3;
+}
+
+.submit-btn {
+  background: #28a745;
+  color: #fff;
+}
+
+.submit-btn:hover {
+  background: #1e7e34;
+}

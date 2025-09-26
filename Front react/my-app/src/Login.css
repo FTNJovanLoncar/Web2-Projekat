@@ -1,0 +1,36 @@
+/* Global background color */
+body {
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Centering the login form */
+.login-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f5f5f5; /* Keeps the background gray */
+}
+
+.login-form {
+  background: #ffffff; /* Keeps the login form white */
+  padding: 30px;
+  border-radius: 8px;
+  width: 300px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.form-button2 {
+    background-color: #131d29;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 10px 60px;   /* Bigger back button */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/* Additional styling as is */
