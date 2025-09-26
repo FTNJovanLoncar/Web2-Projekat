@@ -1,0 +1,160 @@
+[
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "AddQuiz",
+    "RelativePath": "api/quizzes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizDto",
+        "Type": "Web2_proj.Dto.QuizDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "DeleteQuiz",
+    "RelativePath": "api/quizzes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "GetQuizForAnswer",
+    "RelativePath": "api/quizzes/answer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "GetAnswerQuiz",
+    "RelativePath": "api/quizzes/answerquiz/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "GetAllQuiz",
+    "RelativePath": "api/quizzes/getall",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "GetGlobalAnswers",
+    "RelativePath": "api/quizzes/globalanswers/{quizId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quizId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "GetResultsQuizzes",
+    "RelativePath": "api/quizzes/myanswers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.QuizController",
+    "Method": "SubmitAnswerQuiz",
+    "RelativePath": "api/quizzes/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Web2_proj.DTOs.AnswerQuizDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.UserController",
+    "Method": "Check",
+    "RelativePath": "api/users/check",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Web2_proj.Dto.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web2_proj.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/users/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Web2_proj.Dto.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

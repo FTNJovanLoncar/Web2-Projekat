@@ -27,11 +27,12 @@ namespace Web2_proj.Controllers
 
             if (token == null)
             {
-                return Unauthorized(new { error = "Invalid email or password" });
+                return Unauthorized(new { error = "Invalid username/email or password" });
             }
 
             return Ok(new { token });
         }
+
 
 
         [HttpPost("register")]

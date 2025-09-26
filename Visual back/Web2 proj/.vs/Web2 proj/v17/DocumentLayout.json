@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\hubs\\livequizhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:hubs\\livequizhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\services\\livequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:services\\livequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\interfaces\\ilivequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:interfaces\\ilivequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\models\\live.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:models\\live.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:services\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\models\\answerquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:models\\answerquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\interfaces\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:interfaces\\iquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\infrastructure\\dbcontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:infrastructure\\dbcontextt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\infrastructure\\configurations\\quizconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:infrastructure\\configurations\\quizconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\infrastructure\\configurations\\answerquizconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:infrastructure\\configurations\\answerquizconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:dto\\quizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\dto\\answerquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:dto\\answerquizdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Migrations\\20250909163423_FixQuizRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250909163423_FixQuizRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\obj\\Debug\\net7.0\\lywmi5o2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net7.0\\lywmi5o2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|c:\\users\\pc\\desktop\\web2 projekat\\visual back\\web2 proj\\migrations\\20250909164538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF9F415-1637-40A9-AFAB-8EC477A0A874}|Web2 proj.csproj|solutionrelative:migrations\\20250909164538_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Services\\QuizService.cs",
+              "RelativeDocumentMoniker": "Services\\QuizService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Services\\QuizService.cs",
+              "RelativeToolTip": "Services\\QuizService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:25:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:54:16.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:05:22.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAA5wLcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:05:52.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:58:53.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LiveQuizHub.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Hubs\\LiveQuizHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\LiveQuizHub.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Hubs\\LiveQuizHub.cs",
+              "RelativeToolTip": "Hubs\\LiveQuizHub.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:50:59.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LiveQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Services\\LiveQuiz.cs",
+              "RelativeDocumentMoniker": "Services\\LiveQuiz.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Services\\LiveQuiz.cs",
+              "RelativeToolTip": "Services\\LiveQuiz.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAkwKYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:39:08.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:42:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:53:33.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Interfaces\\IQuizService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IQuizService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Interfaces\\IQuizService.cs",
+              "RelativeToolTip": "Interfaces\\IQuizService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:26:50.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILiveQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Interfaces\\ILiveQuiz.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILiveQuiz.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Interfaces\\ILiveQuiz.cs",
+              "RelativeToolTip": "Interfaces\\ILiveQuiz.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:33:54.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Controllers\\QuizController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QuizController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Controllers\\QuizController.cs",
+              "RelativeToolTip": "Controllers\\QuizController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAswJUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:41:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Live.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\Live.cs",
+              "RelativeDocumentMoniker": "Models\\Live.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\Live.cs",
+              "RelativeToolTip": "Models\\Live.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwFEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:30:20.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\Quiz.cs",
+              "RelativeToolTip": "Models\\Quiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:20:51.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnswerQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\AnswerQuiz.cs",
+              "RelativeDocumentMoniker": "Models\\AnswerQuiz.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Models\\AnswerQuiz.cs",
+              "RelativeToolTip": "Models\\AnswerQuiz.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:51:01.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:07:07.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbContextt.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\DbContextt.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DbContextt.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\DbContextt.cs",
+              "RelativeToolTip": "Infrastructure\\DbContextt.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAiwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:44:25.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuizConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\Configurations\\QuizConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\QuizConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\Configurations\\QuizConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\QuizConfiguration.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:21:58.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnswerQuizConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\Configurations\\AnswerQuizConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\AnswerQuizConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Infrastructure\\Configurations\\AnswerQuizConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\AnswerQuizConfiguration.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwEkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:18:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:34:04.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuizDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\QuizDto.cs",
+              "RelativeDocumentMoniker": "Dto\\QuizDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\QuizDto.cs",
+              "RelativeToolTip": "Dto\\QuizDto.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T17:17:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T20:12:55.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AnswerQuizDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\AnswerQuizDto.cs",
+              "RelativeDocumentMoniker": "Dto\\AnswerQuizDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Dto\\AnswerQuizDto.cs",
+              "RelativeToolTip": "Dto\\AnswerQuizDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:58:36.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA2wDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:54:52.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T16:40:19.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250909163423_FixQuizRelations.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Migrations\\20250909163423_FixQuizRelations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250909163423_FixQuizRelations.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Migrations\\20250909163423_FixQuizRelations.cs",
+              "RelativeToolTip": "Migrations\\20250909163423_FixQuizRelations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:34:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250909164538_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Migrations\\20250909164538_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250909164538_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\Migrations\\20250909164538_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250909164538_InitialCreate.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwGoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:41:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "lywmi5o2.sql",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\obj\\Debug\\net7.0\\lywmi5o2.sql",
+              "RelativeDocumentMoniker": "obj\\Debug\\net7.0\\lywmi5o2.sql",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Web2 Projekat\\Visual back\\Web2 proj\\obj\\Debug\\net7.0\\lywmi5o2.sql",
+              "RelativeToolTip": "obj\\Debug\\net7.0\\lywmi5o2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-06T10:56:28.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

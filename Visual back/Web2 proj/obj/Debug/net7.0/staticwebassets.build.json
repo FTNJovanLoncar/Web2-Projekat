@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "d9qcmW4RrOEgq+x4/oB8jaC1myAbdQqrioWGw333c0c=",
-  "Source": "Web2 proj",
-  "BasePath": "_content/Web2 proj",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"tkI/wQH9yD1aw/0P7uKpEZsh2BYv5FuoUpHfHnEkd1Q=","Source":"Web2 proj","BasePath":"_content/Web2 proj","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

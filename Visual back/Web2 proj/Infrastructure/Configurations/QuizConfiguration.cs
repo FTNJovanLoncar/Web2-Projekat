@@ -18,11 +18,18 @@ namespace Web2_proj.Infrastructure.Configurations
                 .IsRequired()
                 .HasMaxLength(100);
 
-            // One Quiz has many Questions
+            builder.Property(x => x.Difficulty)
+                .IsRequired()
+                .HasConversion<int>(); // store enum as int
+
+            builder.Property(x => x.TimeLimitMinutes)
+                .IsRequired();
+
+            // One Quiz has many Questions (cascade delete here)
             builder.HasMany(x => x.Questions)
-                .WithOne()
-                .HasForeignKey("QuizId")
-                .OnDelete(DeleteBehavior.Cascade);
+                   .WithOne(q => q.Quiz) // specify navigation property
+                   .HasForeignKey(q => q.QuizId)
+                   .OnDelete(DeleteBehavior.Cascade);
         }
     }
 
@@ -41,13 +48,17 @@ namespace Web2_proj.Infrastructure.Configurations
                 .HasMaxLength(300);
 
             builder.Property(x => x.Type)
-                .IsRequired();
+                .IsRequired()
+                .HasConversion<int>();
 
-            // One Question has many Options
+            builder.Property(x => x.CorrectTextAnswer)
+                .HasMaxLength(500);
+
+            // One Question has many Options (no cascade delete)
             builder.HasMany(x => x.Options)
-                .WithOne()
-                .HasForeignKey("QuestionId")
-                .OnDelete(DeleteBehavior.Cascade);
+                .WithOne(o => o.Question)
+                .HasForeignKey(o => o.QuestionId)
+                .OnDelete(DeleteBehavior.Cascade); // ✅ delete options when question is deleted
         }
     }
 

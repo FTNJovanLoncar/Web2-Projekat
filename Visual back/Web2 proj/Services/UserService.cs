@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using System.Linq;
 using Web2_proj.Dto;
 using Web2_proj.Interfaces;
 using Web2_proj.Models;
@@ -39,10 +40,11 @@ namespace Web2_proj.Services
         }
 
 
-        public string Login(string email, string password)
+        public string Login(string identifier, string password)
         {
-            // Find user by Email instead of Name
-            var user = _dbContext.Users.FirstOrDefault(u => u.Email == email);
+            // Try to match either Email OR Username
+            var user = _dbContext.Users
+                .FirstOrDefault(u => u.Email == identifier || u.Name == identifier);
 
             if (user == null || !BCrypt.Net.BCrypt.Verify(password, user.Password))
             {
@@ -50,10 +52,10 @@ namespace Web2_proj.Services
             }
 
             var claims = new List<Claim>
-            {
-            new Claim(ClaimTypes.Name, user.Name),   // still include Name in token
-            new Claim(ClaimTypes.Role, user.Role)
-            };
+    {
+        new Claim(ClaimTypes.Name, user.Name),   // always include Name in token
+        new Claim(ClaimTypes.Role, user.Role)
+    };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_secretKey));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
@@ -68,6 +70,7 @@ namespace Web2_proj.Services
 
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
+
 
 
         public string Register(UserDto userDto)
